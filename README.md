@@ -17,25 +17,23 @@ This project has been developed to automate LCC QA application testing on Androi
 ```sh
 mvn clean install
 ```
-6. On completion of execution, test report will be generated in [LLC_QA.html file](https://github.com/meghanashashi/EbayAppiumAutomation/blob/master/ExtentReports/ebaytest.html)
+6. On completion of execution, test report will be generated in [LLC_QA.html file](https://github.com/krrishnavenireddy/LLCQA/tree/master/src/main/resources/ExtentReports/LLC_QA.html)
 
  ![image](https://github.com/meghanashashi/EbayAppiumAutomation/blob/master/images/Report.png)
 
-7. Log files will be generated in the file location specified in [log4j.properties](https://github.com/meghanashashi/EbayAppiumAutomation/blob/master/src/test/resources/log4j.properties)
+7. Log files will be generated in the file location specified in [log4j.properties](https://github.com/krrishnavenireddy/LLCQA/tree/master/src/test/resources/log4j.properties)
 
 ## App Design
 
-1. Testcases can be [found here](https://github.com/meghanashashi/EbayAppiumAutomation/tree/master/src/test/java/TestCases)
+1. Testcases can be [found here](https://github.com/krrishnavenireddy/LLCQA/blob/master/src/test/java/TestCases/SanityTestSuite.java)
 
-2. Code for application framework can be [found here](https://github.com/meghanashashi/EbayAppiumAutomation/tree/master/src/main/java/framework)
+2. Code for application framework can be [found here](https://github.com/krrishnavenireddy/LLCQA/tree/master/src/main/java/framework)
 
-3. [BasePage](https://github.com/meghanashashi/EbayAppiumAutomation/tree/master/src/main/java/framework/BasePage.java) contains all common/util functions used across this project.
+3. [BasePage](https://github.com/krrishnavenireddy/LLCQA/tree/master/src/main/java/framework/BasePage.java) contains all common/util functions used across this project.
 
-4. Test data is read from [external source file](https://github.com/meghanashashi/EbayAppiumAutomation/blob/master/PropertyFiles/InputData.properties)
+4. Test data is read from [external source file](https://github.com/krrishnavenireddy/LLCQA/tree/master/src/main/resources/PropertyFiles/InputData.properties)
 
-5. Logging is implemented using slf4j/log4j. Logs are written into a local file. Hence,t o change the file location, modify [log4j.properties](https://github.com/meghanashashi/EbayAppiumAutomation/blob/master/src/test/resources/log4j.properties)
-
-6. Extent Reports is used for reporting functionality.
+5. Extent Reports is used for reporting functionality.
 
 
 ## Scenarios covered
