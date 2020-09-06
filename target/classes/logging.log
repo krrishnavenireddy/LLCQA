@@ -1,0 +1,1427 @@
+2020-09-05 15:09:26 ERROR Driver:61 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\APK\Wristband_version_1.80_Build_80.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\APK\Wristband_version_1.80_Build_80.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:11:16 ERROR Driver:61 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 22785ms.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 22785ms.
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:13:54 ERROR Driver:60 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:14:39 ERROR Driver:60 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:16:17 ERROR Driver:60 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:16:48 ERROR Driver:60 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\Apk\app-qa-universal-release.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:18:30 ERROR Driver:60 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 22105ms.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 22105ms.
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 15:21:01 ERROR Driver:61 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 22097ms.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 22097ms.
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 16:09:58 ERROR BasePage:243 - C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\PropertyFiles\InputData.properties (The system cannot find the path specified)
+2020-09-05 16:10:24 ERROR BasePage:243 - C:\Users\Sashibhusan.puhan\Desktop\krishnaveni project\PropertyFiles\InputData.properties (The system cannot find the path specified)
+2020-09-05 16:11:43 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:11:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:11:49 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:11:49 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:11:51 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:11:51 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:11:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:11:52 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:11:52 DEBUG BasePage:115 - Inside sendText function
+2020-09-05 16:11:53 ERROR SanityTestSuite:59 - Error in Clciking add_CropBtn button
+2020-09-05 16:11:53 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:11:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:11:59 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:12:00 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:12:01 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:12:02 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 16:12:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 16:12:02 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 16:12:03 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 16:12:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 16:12:03 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 16:13:43 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:13:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:13:48 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:13:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:13:49 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:13:49 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:13:49 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:13:50 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:13:50 DEBUG BasePage:115 - Inside sendText function
+2020-09-05 16:13:52 ERROR SanityTestSuite:59 - Error in Clciking add_CropBtn button
+2020-09-05 16:13:52 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:13:55 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:13:58 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:13:59 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:14:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 16:14:01 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 16:14:01 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 16:14:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 16:14:01 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 16:14:02 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 16:14:02 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 16:14:02 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 16:14:02 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 16:14:02 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 16:14:02 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 16:14:02 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 16:14:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 16:14:02 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 16:22:33 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:22:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:22:39 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:22:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:22:41 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:22:41 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:22:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:22:41 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:22:41 DEBUG BasePage:91 - Inside clickUsingIDContains function 
+2020-09-05 16:22:44 ERROR SanityTestSuite:59 - Error in Clciking add_CropBtn button
+2020-09-05 16:22:44 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:22:47 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:22:50 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:22:51 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:22:52 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:22:53 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 16:22:53 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 16:22:53 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 16:22:53 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 16:22:53 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 16:22:53 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 16:22:53 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 16:22:53 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 16:22:53 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 16:22:53 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 16:22:53 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 16:22:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 16:22:53 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 16:22:54 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 16:22:54 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 16:22:54 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 16:22:54 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 16:22:54 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 16:22:54 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 16:22:54 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 16:22:54 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 16:22:54 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 16:22:54 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 16:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 16:22:54 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 16:24:44 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:24:44 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:24:50 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:24:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:24:51 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:24:51 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:24:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:24:52 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:24:52 DEBUG BasePage:91 - Inside clickUsingIDContains function 
+2020-09-05 16:24:55 ERROR SanityTestSuite:59 - Error in Clciking add_CropBtn button
+2020-09-05 16:24:55 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:24:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:25:01 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:25:02 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:25:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:25:04 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 16:25:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 16:25:04 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 16:25:05 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 16:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 16:25:05 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 16:28:30 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:28:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:28:35 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:28:35 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:28:37 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:28:37 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:28:49 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:28:49 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:29:31 DEBUG BasePage:91 - Inside clickUsingIDContains function 
+2020-09-05 16:30:24 ERROR SanityTestSuite:59 - Error in Clciking add_CropBtn button
+2020-09-05 16:30:24 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:31:02 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:31:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:31:08 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:31:08 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:31:09 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:31:09 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:31:15 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:31:16 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:31:28 DEBUG BasePage:91 - Inside clickUsingIDContains function 
+2020-09-05 16:33:07 ERROR SanityTestSuite:59 - Error in Clciking add_CropBtn button
+2020-09-05 16:33:07 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:36:38 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:36:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:36:43 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:36:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:36:45 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:36:45 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:36:49 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:36:50 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:37:06 DEBUG BasePage:115 - Inside sendText function
+2020-09-05 16:40:23 ERROR SanityTestSuite:60 - Error in Clciking add_CropBtn button
+2020-09-05 16:40:23 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:44:38 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:44:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:44:44 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:44:44 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:44:45 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:44:45 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:44:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:44:51 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:45:08 DEBUG BasePage:124 - Inside sendText function
+2020-09-05 16:45:51 ERROR SanityTestSuite:60 - Error in Clciking add_CropBtn button
+2020-09-05 16:45:51 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:49:17 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:49:17 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:49:23 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:49:23 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:49:24 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:49:24 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:49:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:49:34 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:50:04 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:50:38 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:50:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:50:44 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:50:44 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:50:46 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:50:46 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:50:56 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:50:56 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:51:31 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:51:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:55:22 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 16:55:22 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:55:27 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 16:55:27 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:55:29 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 16:55:29 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 16:56:40 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:56:40 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 16:57:04 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 16:57:19 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:57:23 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 16:57:26 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 16:57:46 ERROR SanityTestSuite:94 - Error in Clciking add_CropBtn button
+2020-09-05 16:57:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:00:33 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:00:33 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:00:38 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:00:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:00:39 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:00:39 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:00:47 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:00:47 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:01:36 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:01:56 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:02:22 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:04:12 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:04:23 ERROR SanityTestSuite:94 - Error in Clciking add_CropBtn button
+2020-09-05 17:04:23 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:06:04 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:06:04 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:06:11 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:06:11 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:06:12 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:06:12 INFO  SanityTestSuite:27 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:06:14 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:06:15 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:06:33 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:06:52 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:07:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:07:27 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:07:56 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:08:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:08:09 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 17:08:10 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 17:08:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 17:08:10 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 17:35:49 INFO  SanityTestSuite:28 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:35:49 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:35:54 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:35:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:35:55 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:35:55 INFO  SanityTestSuite:28 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:35:55 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:36:16 ERROR SanityTestSuite:60 - Error in Clciking Language button
+2020-09-05 17:36:16 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:36:37 INFO  SanityTestSuite:28 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:36:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:36:37 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:36:41 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:36:47 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:36:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:36:53 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:37:13 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:37:13 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:37:15 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 17:37:15 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 17:37:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 17:37:15 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 17:38:14 INFO  SanityTestSuite:28 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:38:14 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:38:21 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:38:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:38:22 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:38:22 INFO  SanityTestSuite:28 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:38:22 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:38:23 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:38:27 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:38:33 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:38:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:38:38 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:38:59 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:38:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:39:00 INFO  SanityTestSuite:28 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:39:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:39:20 ERROR SanityTestSuite:60 - Error in Clciking Language button
+2020-09-05 17:39:20 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:39:44 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 17:39:44 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 17:39:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 17:39:44 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 17:43:10 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:43:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:16 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:43:16 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:17 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:43:17 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:43:19 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:20 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:43:24 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:43:29 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:43:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:32 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:43:53 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:43:53 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:54 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:43:56 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:56 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:43:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:44:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:44:22 ERROR SanityTestSuite:61 - Error in Clciking Language button
+2020-09-05 17:44:22 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:44:43 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 17:44:43 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 17:44:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 17:44:43 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 17:45:57 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:45:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:03 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:46:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:04 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:46:04 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:46:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:06 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:46:10 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:46:16 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:46:17 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:19 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:46:29 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:46:29 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:30 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:46:32 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:35 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:40 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:40 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:42 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:45 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:46:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:47:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:47:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:47:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:50:24 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:50:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:50:30 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:50:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:50:31 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:50:31 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:50:33 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:50:33 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:50:38 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:50:43 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:50:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:50:48 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:50:59 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:50:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:00 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:51:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:04 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:09 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:09 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:12 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:12 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:15 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:15 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:18 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:18 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:27 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:27 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:33 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:51:54 ERROR SanityTestSuite:82 - Error in Clciking Language button
+2020-09-05 17:51:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:52:16 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 17:52:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 17:52:16 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:52:17 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 17:52:17 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 17:52:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 17:52:17 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 17:52:59 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:52:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:05 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:53:05 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:06 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:53:06 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:53:08 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:09 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:53:13 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:53:18 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:53:20 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:22 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:53:33 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:53:33 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:34 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:53:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:44 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:44 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:47 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:47 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:53 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:53 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:55 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:56 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:58 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:53:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:54:01 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:54:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:54:04 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:54:04 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:54:07 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:54:29 ERROR SanityTestSuite:83 - Error in Clciking Language button
+2020-09-05 17:54:29 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:55:16 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:55:16 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:55:23 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:55:23 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:55:24 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:55:24 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:55:26 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:55:26 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:55:36 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:55:52 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:56:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:04 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:56:15 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:56:15 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:16 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:56:22 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:28 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:33 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:40 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:42 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:53 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:56:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:07 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:12 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:18 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:28 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:57:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:58:28 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 17:58:28 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:58:35 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 17:58:35 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:58:36 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 17:58:36 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 17:58:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:58:38 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 17:58:42 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 17:58:48 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:58:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:58:53 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 17:59:04 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 17:59:04 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:05 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 17:59:07 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:09 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:11 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:11 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:14 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:14 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:17 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:17 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:20 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:20 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:23 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:23 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:26 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:26 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:29 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:29 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:32 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:32 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:35 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 17:59:58 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:00:36 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:00:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:00:42 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:00:42 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:00:43 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:00:44 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:00:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:00:46 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:00:56 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:01:04 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:01:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:01:26 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:01:37 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 18:01:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:01:38 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:01:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:01:55 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:01:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:01:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:04 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:09 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:16 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:17 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:25 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:26 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:29 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:35 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:02:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:04:28 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:04:28 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:04:34 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:04:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:04:36 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:04:36 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:04:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:04:38 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:04:42 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:04:47 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:04:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:04:52 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:05:02 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 18:05:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:03 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:05:05 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:08 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:13 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:13 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:16 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:16 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:18 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:19 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:22 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:27 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:27 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:31 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:31 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 18:05:38 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 18:05:38 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 18:05:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 18:05:38 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 18:22:28 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:22:28 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:22:34 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:22:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:22:35 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:22:35 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:22:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:22:37 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:22:43 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:22:51 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:23:01 ERROR SanityTestSuite:80 - Error in Clciking add_CropBtn button
+2020-09-05 18:23:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:24 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 18:23:26 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:27 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:23:29 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:31 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:33 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:42 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:42 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:45 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:45 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:23:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:24:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 18:24:01 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 18:24:01 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 18:24:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 18:24:01 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 18:28:30 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:28:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:28:36 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:28:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:28:37 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:28:37 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:28:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:28:39 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:28:39 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:28:50 ERROR SanityTestSuite:80 - Error in Clciking add_CropBtn button
+2020-09-05 18:28:50 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:29:11 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 18:29:15 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:29:21 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:29:22 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:29:24 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:29:26 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:30:31 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:30:31 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:30:37 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:30:37 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:30:39 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:30:39 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:30:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:30:41 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:30:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:31:03 ERROR SanityTestSuite:95 - Error in Clciking add_CropBtn button
+2020-09-05 18:31:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:31:04 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:31:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:08 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:38:08 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:14 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:38:14 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:15 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:38:15 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:38:17 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:18 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:38:22 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:38:32 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:38:35 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:38:36 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:36 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:38:38 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:41 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:49 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:51 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:52 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:55 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:38:57 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:00 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:03 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:06 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:09 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:09 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:39:10 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-09-05 18:39:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-09-05 18:39:10 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 18:39:11 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-09-05 18:39:11 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-09-05 18:39:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-09-05 18:39:11 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Sashibhusan.puhan/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-09-05 18:41:10 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:41:10 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:41:15 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:41:15 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:41:17 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:41:17 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:41:19 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:41:19 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:41:23 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:41:31 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:41:42 ERROR SanityTestSuite:97 - Error in Clciking add_CropBtn button
+2020-09-05 18:41:43 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:41:44 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:41:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:41:48 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:42:54 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:42:54 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:42:59 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:42:59 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:43:00 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:43:00 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:43:02 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:43:03 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:43:07 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:43:15 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:43:25 ERROR SanityTestSuite:97 - Error in Clciking add_CropBtn button
+2020-09-05 18:43:27 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:43:28 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:43:30 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:43:32 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:43:34 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:43:35 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:45:00 ERROR Driver:57 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+    at JWProxy.command (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:266:13)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 18:45:04 ERROR Driver:57 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.yara.lcc.qa' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Cannot start the 'com.yara.lcc.qa' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Activity name '.com.yara.lcc.MainActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.yara.lcc.qa' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Cannot start the 'com.yara.lcc.qa' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Activity name '.com.yara.lcc.MainActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+    at getResponseForW3CError (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\Sashibhusan.puhan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:392:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HMECL001073', ip: '192.168.101.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: Driver
+2020-09-05 18:45:39 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_Welcome_Screen******
+
+2020-09-05 18:45:39 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:45:45 INFO  SanityTestSuite:36 - Clicked on Language button
+2020-09-05 18:45:45 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:45:46 INFO  SanityTestSuite:50 - Clicked on Agree_Contine button
+2020-09-05 18:45:46 INFO  SanityTestSuite:29 - 
+****** starting of test:validate_AddCrop_Functionality******
+
+2020-09-05 18:45:46 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:45:47 INFO  SanityTestSuite:43 - Clicked on add_CropBtn button
+2020-09-05 18:45:51 DEBUG BasePage:136 - Inside pressKey function
+2020-09-05 18:46:01 DEBUG BasePage:45 - Inside clickUsingTextContains function 
+2020-09-05 18:46:12 ERROR SanityTestSuite:98 - Error in Clciking add_CropBtn button
+2020-09-05 18:46:12 DEBUG BasePage:61 - Inside clickUsingIDContains function 
+2020-09-05 18:46:13 INFO  SanityTestSuite:29 - 
+****** starting of test:validateLeafColour******
+
+2020-09-05 18:46:15 DEBUG BasePage:61 - Inside clickUsingIDContains function 

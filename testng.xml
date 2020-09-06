@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="none" thread-count="2">
+
+	<listeners>
+		<listener class-name="framework.Reporting"></listener>
+
+	</listeners>
+
+
+	<test name="Test1">
+		<parameter name="deviceName_" value="XP8800" />
+		<parameter name="udid_" value="903f900c" />
+		<parameter name="platformVersion_" value="10" />
+		<classes>
+			<class name="TestCases.SanityTestSuite" />
+
+		</classes>
+	</test>
+
+
+</suite>
